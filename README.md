@@ -7,7 +7,7 @@ Instructions:
     mv vertcoin_scrypt vtc_scrypt
     
     
-    DONE!! Config.py is already setup for vertcoin, aka scrypt-vtc is already entered into the algo.
+DONE!! Config.py is already setup for vertcoin, aka scrypt-vtc is already entered into the algo.
 
 
 
